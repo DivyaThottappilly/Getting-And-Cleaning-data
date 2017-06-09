@@ -1,14 +1,14 @@
 
 
-## Getting and Cleaning Data Project
+## Getting and Cleaning Data Project  
 
-###Purpose
+**Purpose**  
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. 
 
-###Data Scource
+**Data Source**  
 The data is collected from the accelerometers of Samsung Galaxy S smartphone.
 
-###Description
+**Description**  
 Here is the detailed description of R script- run_analysis.R
 
 **1.Merges the training and the test sets to create one data set.**
